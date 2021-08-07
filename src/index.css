@@ -1,0 +1,20 @@
+body {
+  list-style: none;
+  background-color: rgb(245, 239, 239);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+
+@import url("./Component/Header/Navbar.css");
+@import url("./Component/Footer/Footer.css");
+@import url("./Component/Body/Products/Products.css");
+@import url("./Component/Body/Login/Login.css");
+@import url("./Component/Body/Register/Register.css");
+@import url("./Component/Body/Laptop/Laptop.css");

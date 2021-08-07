@@ -1,0 +1,19 @@
+.laptop {
+  margin-top: 80px;
+}
+.card-laptop {
+  background-color: rgb(245, 239, 239);
+  border: 1px solid rgb(245, 239, 239);
+}
+.card-laptop:hover {
+  box-shadow: 0px 0px 15px 5px rgba(170, 170, 170, 0.692);
+  transition: 1500ms;
+}
+
+.laptop img {
+  height: 180px;
+}
+
+.card-img {
+  margin: 0px auto;
+}

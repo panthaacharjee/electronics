@@ -1,0 +1,31 @@
+h2 {
+  margin-top: 100px;
+}
+.card {
+  width: 16rem;
+  padding: 15px;
+}
+.card-title {
+  color: black;
+}
+.card-text {
+  color: black;
+}
+.card-price {
+  color: rgb(187, 102, 6);
+}
+.card-img-products {
+  height: 200px;
+  width: 220px;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 1199px) {
+  .card {
+    width: 14rem;
+  }
+  .card-img-products {
+    height: 150px;
+    width: 170px;
+  }
+}
